@@ -1,0 +1,39 @@
+# Data Train
+Total/
+Recog/
+visualize_img/
+
+# Weight model
+first_time/
+weight_yolov10/
+
+# Model train
+DeepSolo/
+parseq/
+yolov10/
+
+# file train, predict, visualize
+new_rewrite_label.py
+new_visualize.py
+predict.py
+rewrite_label.py
+training.py
+visualize.py
+
+# file weight .pt
+yolov8n.pt
+yolov10x.pt
+
+# file .yaml for training 
+dataset_long.yaml
+dataset.yaml
+
+# Something
+demo_lp.tar 
+log.json
+Web_Demo/__pycache__/
+Web_Demo/find_lp.build
+Web_Demo/find_lp.dist
+Web_Demo/lp/
+Web_Demo/run.sh
+Web_Demo/scripts.zip
